@@ -29,7 +29,7 @@ layout: default
 
 <!-- Sección Hero -->
 <div class="hero-section">
-  <img src="assets/images/registro.png" alt="Antena" class="img-fluid">
+  <img src="images/antenna.png" alt="Antena" class="img-fluid">
   <h1>Welcome to PROPAMAP User Manual</h1>
   <p>This is your guide to using the PROPAMAP application effectively and efficiently.</p>
   <a href="indice.md" class="btn btn-primary btn-lg">Get Started</a>
