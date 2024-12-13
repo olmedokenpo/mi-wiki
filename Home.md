@@ -1,29 +1,42 @@
-# [<img src="./images/antenna.png" alt="images_antena" width="40">](https://github.com/propagamap) AAOR Users' Manual
-
-Welcome to the PROPAMAP Users' Manual. This document is designed to assist in using the application efficiently.
-
-## Project Information
-- **Application**: AAOR
-- **Version**: 1.0.0
-- **Date**: December 2024
-- **Contributors**: [Your name or organization]
-
-## Table of Contents
-- [Introduction](Introduction.md)
-- [Step-by-Step Guide](Step_by_Step_Guide.md)
-  - [Registration and Access](Registration_and_Access.md)
-  - [Basic Navigation](Basic_Navigation.md)
-  - [Main Features](Main_Features.md)
-  - [Advanced Settings](Advanced_Settings.md)
-- [Troubleshooting](Troubleshooting.md)
-  - [Frequently Asked Questions (FAQ)](Troubleshooting.md#frequently-asked-questions-faq)
-  - [Technical Support](Troubleshooting.md#technical-support)
-- [Glossary](Glossary.md)
-
 ---
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  
-  <div style="text-align: right;">
-    <a href="Introduction.md">Next Page</a> ➡️
-  </div>
+layout: default
+---
+
+<head>
+  <!-- Enlace a Bootstrap desde un CDN -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    .hero-section {
+      background-color: #f8f9fa;
+      padding: 50px 0;
+      text-align: center;
+    }
+    .hero-section img {
+      max-width: 300px;
+      margin-bottom: 20px;
+    }
+    .hero-section h1 {
+      font-size: 2.5rem;
+      font-weight: bold;
+      color: #333;
+    }
+    .hero-section p {
+      font-size: 1.2rem;
+      color: #555;
+    }
+  </style>
+</head>
+
+<!-- Sección Hero -->
+<div class="hero-section">
+  <img src="assets/images/registro.png" alt="Antena" class="img-fluid">
+  <h1>Welcome to PROPAMAP User Manual</h1>
+  <p>This is your guide to using the PROPAMAP application effectively and efficiently.</p>
+  <a href="indice.md" class="btn btn-primary btn-lg">Get Started</a>
+</div>
+
+<!-- Información adicional -->
+<div class="container mt-5">
+  <h2>What is PROPAMAP?</h2>
+  <p>PROPAMAP is an advanced tool designed to help you manage and navigate the complex landscape of your system. It offers an array of features to streamline your workflow.</p>
 </div>
