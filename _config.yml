@@ -1,0 +1,9 @@
+title: My Wiki
+description: A simple Wiki for my project
+theme: jekyll-theme-cayman
+markdown: kramdown
+remote_theme: "pmarsceill/just-the-docs"
+
+# Incluir Bootstrap globalmente
+plugins:
+  - jekyll-assets
