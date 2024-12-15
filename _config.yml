@@ -1,10 +1,15 @@
 title: My Wiki
 description: A simple Wiki for my project
-theme: jekyll-theme-cayman
-markdown: kramdown
-remote_theme: "pmarsceill/just-the-docs"
+remote_theme: "pmarsceill/just-the-docs" # Solo usa este tema
 search_enabled: true
 
-# Incluir Bootstrap globalmente
+# Configuración específica de Just the Docs
+just_the_docs:
+  show_sidebar: true # Muestra la barra lateral en todas las páginas
+  home_page: index   # Define la página de inicio (index.md)
+
+# Markdown y Plugins
+markdown: kramdown
+
 plugins:
-  - jekyll-assets
+  - jekyll-assets # Si usas Bootstrap o archivos CSS/JS personalizados
