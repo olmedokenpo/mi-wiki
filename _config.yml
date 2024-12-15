@@ -6,6 +6,7 @@ search_enabled: true
 # Configuración específica de Just the Docs
 just_the_docs:
   show_sidebar: true # Muestra la barra lateral en todas las páginas
+  show_previous_and_next: true # Activa las flechas de navegación
   home_page: index   # Define la página de inicio (index.md)
 
 # Markdown y Plugins
