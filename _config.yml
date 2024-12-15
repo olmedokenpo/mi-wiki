@@ -3,6 +3,7 @@ description: A simple Wiki for my project
 theme: jekyll-theme-cayman
 markdown: kramdown
 remote_theme: "pmarsceill/just-the-docs"
+search_enabled: true
 
 # Incluir Bootstrap globalmente
 plugins:
