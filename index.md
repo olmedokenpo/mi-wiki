@@ -32,7 +32,7 @@ layout: default
   <img src="images/antenna.png" alt="Antena" class="img-fluid">
   <h1>Welcome to PROPAMAP User Manual</h1>
   <p>This is your guide to using the PROPAMAP application effectively and efficiently.</p>
-  <a href="indice.md" class="btn btn-primary btn-lg">Get Started</a>
+  <a href="indice.html" class="btn btn-primary btn-lg">Get Started</a>
 </div>
 
 <!-- Información adicional -->
