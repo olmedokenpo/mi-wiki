@@ -4,36 +4,43 @@ layout: home
 nav_order: 1
 ---
 
-# Welcome to PROPAMAP User Manual
+<head>
+  <!-- Enlace a Bootstrap desde un CDN -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    .hero-section {
+      background-color: #f8f9fa;
+      padding: 50px 0;
+      text-align: center;
+    }
+    .hero-section img {
+      max-width: 300px;
+      margin-bottom: 20px;
+    }
+    .hero-section h1 {
+      font-size: 2.5rem;
+      font-weight: bold;
+      color: #333;
+    }
+    .hero-section p {
+      font-size: 1.2rem;
+      color: #555;
+    }
+  </style>
+</head>
 
-<div style="text-align: center; margin-bottom: 40px;">
-  <img src="images/antenna.png" alt="Antenna" style="max-width: 200px; margin: 20px auto;">
+<!-- Sección Hero -->
+<div class="hero-section">
+  <img src="images/antenna.png" alt="Antena" class="img-fluid">
+  <h1>Welcome to PROPAMAP User Manual</h1>
+  <p>This is your guide to using the PROPAMAP application effectively and efficiently.</p>
+  <a href="indice.html" class="btn btn-primary btn-lg">Get Started</a>
 </div>
 
-Welcome to the **PROPAMAP User Manual**, your ultimate guide to using the application efficiently and effectively.
-
-<div style="text-align: center; margin: 30px 0;">
-  <a href="indice.md" class="btn btn-primary btn-lg">Get Started</a>
+<!-- Información adicional -->
+<div class="container mt-5">
+  <h2>What is PROPAMAP?</h2>
+  <p>PROPAMAP is an advanced tool designed to help you manage and navigate the complex landscape of your system. It offers an array of features to streamline your workflow.</p>
 </div>
 
----
 
-## What is PROPAMAP?
-
-**PROPAMAP** is an advanced tool designed to help you:
-- Manage and navigate complex systems efficiently.
-- Streamline workflows.
-- Optimize productivity.
-
----
-
-### Key Features
-- **Ease of Use**: Intuitive design for quick navigation.
-- **Customizable Settings**: Tailor the application to your specific needs.
-- **Comprehensive Tools**: Everything you need to optimize your workflow.
-
----
-
-<div style="text-align: center; margin-top: 50px;">
-  <a href="indice.md" class="btn btn-secondary">Go to Table of Contents</a>
-</div>
