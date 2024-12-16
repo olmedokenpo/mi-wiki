@@ -6,16 +6,21 @@ nav_order: 1
 
 # Welcome to PROPAMAP User Manual
 
-This is your guide to using the PROPAMAP application effectively and efficiently.
+<p style="text-align: center;">
+  <img src="images/antenna.png" alt="Antenna" style="max-width: 300px; margin-bottom: 20px;">
+</p>
 
-<div class="alert alert-info" role="alert">
-  Use this guide to streamline your experience and navigate complex systems with ease.
-</div>
+Welcome to the official user manual for PROPAMAP, your comprehensive guide to effectively using the application.
+
+---
 
 ## Features at a Glance
+
 - **Start Here**: Learn about the application, its features, and how to get started.
 - **Navigate Easily**: Use the table of contents or search bar to find specific sections.
 
-<div style="text-align: center; margin-top: 30px;">
-  <a href="introduccion.md" class="btn btn-primary btn-lg">Get Started</a>
-</div>
+---
+
+<p style="text-align: center; margin-top: 30px;">
+  <a href="introduccion.md" class="btn">Get Started</a>
+</p>
